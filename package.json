@@ -27,5 +27,13 @@
     "@types/express": "^4.16.1",
     "@types/morgan": "^1.7.35",
     "@types/node": "^10.12.18"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chandni23Patel/COMP308-W2019-Lesson4A.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Chandni23Patel/COMP308-W2019-Lesson4A/issues"
+  },
+  "homepage": "https://github.com/Chandni23Patel/COMP308-W2019-Lesson4A#readme"
 }
